@@ -1,0 +1,12 @@
+[
+    {
+        "title": "hum aapka hai kon?",
+        "type": "Movie",
+        "year": 2011,
+        "genre": "romantic",
+        "status": "Watching",
+        "rating": 8.5,
+        "notes": "it is a good movie with lots of drama, romance and comedy",
+        "runtime_minutes": 60
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "title": "Inception",
+        "type": "Movie",
+        "year": 2010,
+        "genre": "Sci-Fi",
+        "status": "Completed",
+        "rating": 9.0,
+        "notes": "Great ending",
+        "runtime_minutes": 148
+    },
+    {
+        "title": "Breaking Bad",
+        "type": "Series",
+        "year": 2008,
+        "genre": "Crime",
+        "status": "Watching",
+        "rating": null,
+        "notes": "",
+        "total_episodes": 62,
+        "episodes_watched": 25,
+        "episode_duration": 47,
+        "seasons": 5
+    }
+]
