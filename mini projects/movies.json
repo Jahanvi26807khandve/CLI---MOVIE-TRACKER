@@ -1,0 +1,15 @@
+[
+    {
+        "title": "wednesday",
+        "type": "Series",
+        "year": 2024,
+        "genre": "horro",
+        "status": "Completed",
+        "rating": 10.0,
+        "notes": "it is a good series",
+        "total_episodes": 8,
+        "episodes_watched": 8,
+        "episode_duration": 20,
+        "seasons": 3
+    }
+]
